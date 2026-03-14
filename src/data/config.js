@@ -11,8 +11,8 @@ const CONFIG = {
   year:        "2026",
 
   whatsapp: {
-    primary:   "919953231435",
-    secondary: "917507739785",
+    primary:   "917507739785",
+    secondary: "919953231435",
     message:   "Hi, I want to order Scent Trial perfume",
   },
 
