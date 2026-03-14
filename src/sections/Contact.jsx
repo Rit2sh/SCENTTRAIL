@@ -4,8 +4,8 @@ import WAIcon from "../components/WAIcon";
 import CONFIG from "../data/config";
 const { colors:C, whatsapp:WA } = CONFIG;
 const CONTACTS = [
-  { num:WA.primary,   name:"Vipul Gaikwad",  role:"Founder",   display:"+91 99532 31435" },
-  { num:WA.secondary, name:"Ritesh Chauhan", role:"Co-Builder", display:"+91 75077 39785" },
+  { num:WA.primary,   name:"Vipul Gaikwad",  role:"Founder",   display:"+91 75077 39785" },
+  { num:WA.secondary, name:"Ritesh Chauhan", role:"Co-Builder", display:"+91 9953231435" },
 ];
 export default function Contact() {
   const openWA = (num) => window.open(`https://wa.me/${num}?text=${encodeURIComponent(WA.message)}`,"_blank");
