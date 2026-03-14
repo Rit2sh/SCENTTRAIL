@@ -6,8 +6,8 @@ import WAIcon from "../components/WAIcon";
 import CONFIG from "../data/config";
 const { colors:C, whatsapp:WA } = CONFIG;
 const BTNS = [
-  { num:WA.primary,   display:"+91 99532 31435", name:"Vipul" },
-  { num:WA.secondary, display:"+91 75077 39785", name:"Ritesh" },
+  { num:WA.primary,   display:"+91 75077 39785", name:"Vipul" },
+  { num:WA.secondary, display:"+91 99532 31435", name:"Ritesh" },
 ];
 export default function FloatingWA() {
   const [expanded, setExpanded] = useState(false);
