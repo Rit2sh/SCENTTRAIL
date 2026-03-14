@@ -220,7 +220,7 @@ Then drag the `build/` folder to [vercel.com](https://vercel.com)
 |---------|---------|
 | 📱 WhatsApp (Ritesh) | [+91 99532 31435](https://wa.me/919953231435) |
 | 📱 WhatsApp (Vipul) | [+91 75077 39785](https://wa.me/917507739785) |
-| 📸 Instagram | [@scenttrial](https://www.instagram.com/scenttrial.official?igsh=MWg2Z3d1N3BvcHcyYg==) |
+| 📸 Instagram | [@scenttrial.official](https://www.instagram.com/scenttrial.official?igsh=MWg2Z3d1N3BvcHcyYg==) |
 
 ---
 
